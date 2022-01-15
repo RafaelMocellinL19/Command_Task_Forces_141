@@ -1,0 +1,109 @@
+html{
+      background-color:rgb(255, 0, 0);
+
+     
+     
+
+}
+body{
+    padding: auto;
+    margin: auto;
+
+    /* background-color:rgb(255, 81, 0); */
+    align-items: center;
+}
+
+.cabecalho{
+    text-align:center;
+
+}
+.lema{
+    text-align: center;
+}
+
+
+main{
+
+
+     background-color:darkcyan; 
+  
+   margin:auto;
+    padding: auto;
+    max-width:1024px;
+    min-width: 650px;
+}
+ .esquerda{
+     
+    float: right bottom;
+    width: 10%;
+    height: 10%;
+ }  
+
+
+.centro{
+    padding:10px auto;
+    margin:10px auto;
+    text-align: center;
+}
+.centro-titulo{
+    text-align: center; color: black;
+}
+.centro-texto{
+    text-align: center;
+}
+
+.blog{
+    text-align: center;
+   
+    
+
+}
+
+.missoes{
+    padding:25px;
+    text-align:left;
+    list-style-type:square
+
+    }
+.hierarquia{
+   padding:25px;
+    text-align:left;
+    list-style-type:square
+
+}
+.historia{
+    text-align: center;
+}
+.texto{
+    text-align: center;
+    text-decoration: underline;
+}
+ul{
+   
+    list-style: square;
+}
+.info{
+    text-align: center;
+}
+.mar{
+    text-decoration: underline;
+    text-align: center;
+}
+.terra{
+    text-decoration: underline;
+    text-align: center;
+}
+.ar{
+    text-decoration: underline;
+    text-align: center;
+}
+.ata{
+   
+    text-align: left ;
+    list-style-type:square;
+}
+.com{
+    text-align: center;
+    text-decoration: underline;
+}
+

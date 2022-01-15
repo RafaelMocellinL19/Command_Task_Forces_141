@@ -1,0 +1,93 @@
+    
+        @media (max-width: 650px)  {
+            
+                
+            
+
+            html{
+                display: inline-flex;
+                min-height: auto;
+                max-width: auto;
+                 padding:0 auto;
+                margin:0  auto;
+                 background-color: darkcyan  
+                
+            }
+            body{
+                margin: 0 auto;
+                size-adjust:0 auto;
+                padding: auto;
+            }
+            header{
+                min-width: 360;
+                max-width: 460px;
+
+            }
+            .cabecalho{
+                max-width:0 auto;
+                max-height:0 auto;
+                margin:0 left;
+                padding: 0 auto;
+            }
+            .img{
+
+                max-width: auto;
+                min-height: auto;
+                height: auto;
+                width: auto;
+              
+            }
+            
+            main{
+                margin: auto;
+                background-color:darkcyan;
+               margin-left: auto;
+               margin-right: auto;
+                padding: auto;
+                max-width: auto;
+                min-width: auto;
+            }
+             .esquerda{
+                 
+                float: right bottom;
+                width: 10%;
+                height: 10%;
+             }  
+            
+            
+            .centro{
+            
+            
+                text-align: center;
+
+            }
+            .centro-titulo{
+                text-align: center; color: black;
+            }
+            .centro-texto{
+                font-size: 100%;
+                text-align: center;
+            }
+            
+            .blog{
+                text-align: center;
+               }
+               .central{
+                   align-items: flex-end;
+               }
+            
+            ul{
+                text-align:left;
+            }
+            .historia{
+                font-size: 150%;
+                text-align: center;
+            }
+            .texto{
+                text-decoration: underline;
+                font-size: 100%;
+                text-align: center;
+            }
+
+}
+   
